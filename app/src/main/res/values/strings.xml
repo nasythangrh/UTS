@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">ReviewWisataNgalam</string>
+    <string name="text_accounts">Semua Akun</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">Enter Valid Email</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+    <string name="error_password_match">Password Does Not Matches</string>
+    <string name="error_valid_email_password">Wrong Email or Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">Review Wisata</string>
+
+    <string name="fasilitas_cbntalun">Di area air terjun, anda bisa bermain air di beberapa kolam yang sudah tertata. Selain itu juga terdapat arena hiburan lain seperti flying fox, bermain perahu, penyewaan pelampung donat,dan lain-lain. Anda pun bisa menggunakan gubuk yang disewakan bagi pengunjung yang ingin berteduh. Anda bisa bermain air dengan puas disini. Jika membawa anak, bisa juga bermain di kolam khusus yang disediakan untuk anak-anak. Tempatnya tidak jauh dari parkiran.</string>
+    <string name="content_jamweekdays_cbntalun">08.00 - 17.00 WIB</string>
+    <string name="content_jamweekend_cbntalun">07.30 - 18.30 WIB</string>
+    <string name="content_hargaweekdays_cbntalun">Rp 7.500,00/orang.</string>
+    <string name="content_hargaweekend_cbntalun">Rp 10.000,00/orang.</string>
+    <string name="content_hargamotor_cbntalun">Rp 5.000,00</string>
+    <string name="content_hargamobil_cbntalun">Rp 10.000,00</string>
+    <string name="content_lokasi_cbntalun">Kawasan wisata Coban Talun Desa Tulungrejo Kecamatan Bumiaji Kota Batu.</string>
+    <string name="content_akseskendaraan_cbntalun">Lokasi wisata Coban Talun bisa anda capai cukup mudah. Posisinya hanya sekitar 3 km dari Selecta .</string>
+
+    <string name="fasilitas_eco"> Para pengunjung bisa merasakan 37 wahana yang memadukan konsep wisata Alam, Kebudayaan, Lingkungan dan Seni inspiratif, Menarik dan Mendidik.</string>
+    <string name="content_jamweekdays_eco">09.00 - 17.00 WIB</string>
+    <string name="content_jamweekend_eco">09.00 - 17.00 WIB</string>
+    <string name="content_hargaweekdays_eco">Rp 55.000,00/orang.</string>
+    <string name="content_hargaweekend_eco">Rp 150.000,00/orang.</string>
+    <string name="content_hargamotor_eco">Rp 5.000,00</string>
+    <string name="content_hargamobil_eco">Rp 10.000,00</string>
+    <string name="content_lokasi_eco">Terletak di Jl.Oro-oro Ombo No.9A, kota Batu-Malang. </string>
+    <string name="content_akseskendaraan_eco">Cara ke lokasi ECO Green Park bisa ditempuh dengan beberapa alternatif jalan. lokasi ini dekat dengan Jatim Park 2.</string>
+
+    <string name="fasilitas_jpark2">Jatim Park 2 merupakan salah satu tempat rekreasi dan taman belajar yang sangat terkenal, bahkan sudah menjadi icon pariwisata di provinsi Jawa Timur. Sehingga wajar jika selalu ramai tidak hanya pada weekend bahkan pada weekday (hari-hari biasa) tempat ini selalu ramai dikunjungi oleh wisatawan yang datang dari penjuru Indonesia, bahkan ada yang menggunakan bis </string>
+    <string name="content_jamweekdays_jpark2">10.00 - 18.00 WIB</string>
+    <string name="content_jamweekend_jpark2">10.00 - 18.00 WIB</string>
+    <string name="content_hargaweekdays_jpark2">Rp 75.000,00/orang.</string>
+    <string name="content_hargaweekend_jpark2">Rp 105.000,00/orang.</string>
+    <string name="content_hargamotor_jpark2">Rp 5.000,00</string>
+    <string name="content_hargamobil_jpark2">Rp 15.000,00</string>
+    <string name="content_lokasi_jpark2">Terletak di Jl. Oro-Oro Ombo No.9, Temas, Kec. Batu, Kota Batu, Jawa Timur.</string>
+    <string name="content_akseskendaraan_jpark2">Lokasi Jatim Park 2 berjarak sekitar 750 meter dari Jatim Park 1. Jalan menuju ke tempat rekreasi ini pun terbilang sangat mudah dan bisa dijangkau dengan menggunakan angkutan umum mupun kendaraan pribadi. Rutenya pun tidak sulit, yaitu dari alun-alun kota Malang, Anda masuk jalan Kawi lalu ikuti terus jalan tersebut sehingga Anda sampai di pusat wisata kota Batu Malang.</string>
+
+    <string name="fasilitas_alun">Saat tahun baru, alun-alun kota Batu Malang tak akan pernah sepi dari kerumunan masyarakat. Inilah salah satu wisata Kota Batu Malang yang murah meriah tapi menyenangkan.
+        Kamu bisa duduk atau tiduran dengan beralaskan tikar sambil melihat  pesta kembang dan mencicipi makanan khas Jawa Timur yang dijual di sekitaran alun-alun kota Batu Malang.</string>
+    <string name="content_jamweekdays_alun">24 Jam</string>
+    <string name="content_jamweekend_alun">24 Jam</string>
+    <string name="content_hargaweekdays_alun">Gratis</string>
+    <string name="content_hargaweekend_alun">Gratis</string>
+    <string name="content_hargamotor_alun">Rp 3.000,00</string>
+    <string name="content_hargamobil_alun">Rp 5.000,00</string>
+    <string name="content_lokasi_alun">Terletak di Jl. Diponegoro, Sisir, Kec. Batu, Kota Batu, Jawa Timur </string>
+    <string name="content_akseskendaraan_alun">Akses menuju alun kota Batu cukup mudah. Dapat ditempuh menggunakan kendaraan pribadi maupun kendaraan umum. Di sana tersedia parkir mobil, sepeda motor dan bus yang berada disebelah utara alun-alun. Jika anda membutuhkan bantuan petunjuk arah lebih detail, silahkan gunakan Google Maps.</string>
+
+    <string name="fasilitas_angkut">Museum Angkut merupakan museum transportasi dan tempat wisata modern yang terletak di Kota Batu, Jawa Timur, sekitar 20 km dari Kota Malang. Museum ini terletak di kawasan seluas 3,8 hektar di lereng Gunung Panderman dan memiliki lebih dari 300 koleksi jenis angkutan tradisional hingga modern.</string>
+    <string name="content_jamweekdays_angkut">12.00 - 20.00 WIB</string>
+    <string name="content_jamweekend_angkut">12.00 - 20.00 WIB</string>
+    <string name="content_hargaweekdays_angkut">Rp 70.000,00/orang.</string>
+    <string name="content_hargaweekend_angkut">Rp 100.000,00/orang.</string>
+    <string name="content_hargamotor_angkut">Rp 5.000,00</string>
+    <string name="content_hargamobil_angkut">Rp 10.000,00</string>
+    <string name="content_lokasi_angkut">Terletak di Jl. Terusan Sultan Agung No.2, Ngaglik, Kec. Batu, Kota Batu, Jawa Timur </string>
+    <string name="content_akseskendaraan_angkut">Dari Alun-Alun Kota Batu yang berjarak sekitar 30-45 menit dari Malang bisa langsung menuju ke Museum Angkut yang jaraknya sekitar 10 menit. Untuk kamu yang ingin menuju ke Museum Angkut Malang menggunakan alat transportasi bus, dari Terminal Purabaya Sidoarjo bisa ke Malang dan turun di Terminal Arjosari. Dari Terminal Arjosari bisa naik angkutan umum dengan huruf “L” untuk turun di Terminal Landungsari, kemudian melanjutkan dengan naik ojek atau bus dengan jurusan Jombang. Kemudian jika ingin naik kereta api atau pesawat, dari stasiun maupun bandara bisa naik angkutan umum untuk ke Terminal Langsungsari terlebih dahulu ya.</string>
+
+    <string name="Lokasi">Lokasi</string>
+    <string name="fasilitas">Fasilitas</string>
+    <string name="akses_kendaraan">Akses Kendaraan</string>
+    <string name="jam_buka">Jam Buka</string>
+    <string name="weekdays">Weekdays</string>
+    <string name="Weekend">Weekend</string>
+    <string name="harga_tiket">Harga Tiket</string>
+    <string name="mobil">Mobil</string>
+    <string name="motor">Motor</string>
+</resources>
